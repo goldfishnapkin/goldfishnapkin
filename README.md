@@ -3,7 +3,7 @@ I'm Argeo!
 
 An **IT Technician working in the public school system**, actively building enterprise skills and hands-on lab experience to transition into **System Administration**.
 
-🚨**Open to new opportunities** Currently seeking System Administrator, Junior SysAdmin, and Network Support roles.
+🚨**Open to new opportunities** Currently seeking System Administrator, Junior SysAdmin, and Network Support roles (**On-site in Southwest Florida** or **Remote**).
 
 ### 🛠️ Technical Focus & Skills
 - **Directory Services:** Active Directory, Group Policy (GPO), User/Group Provisioning

@@ -10,7 +10,7 @@ An **IT Technician working in the public school system**, actively building ente
 - **Scripting & Automation:** PowerShell, Batch
 - **Networking & Infrastructure:** TCP/IP, DNS, DHCP, Subnetting, Troubleshooting
 
-- ### 🧪 Homelabs & Projects
+### 🧪 Homelabs & Projects
 
 #### **Windows Server & Active Directory Lab (Hyper-V)**
 - Built and configured a virtualized **Windows Server 2022 Domain Controller** from scratch using **Microsoft Hyper-V**.
